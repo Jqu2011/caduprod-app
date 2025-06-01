@@ -1,4 +1,0 @@
-ID Lote,Producto,Marca,Fecha Vencimiento,Cantidad,Tienda,Ubicación,Fecha Ingreso,Días Restantes,Estado,Acción Retiro,Fecha Retiro,Observaciones
-L001,Queso Semicurado,Albeniz,2025-06-02,10,Tienda Principal,Nevera 1 - Hilera 4,2025-05-30,1,⚠️ Por vencer,,,
-L002,Queso Havarti,Albeniz,2025-06-30,8,Tienda Principal,Nevera 1 - Hilera 4,2025-05-30,29,🟢 Vigente,,,
-L003,Queso Sin Lactosa,Albeniz,2025-06-30,6,Tienda Principal,Nevera 1 - Hilera 4,2025-05-30,29,🟢 Vigente,,,
